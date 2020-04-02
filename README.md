@@ -1,5 +1,5 @@
-#Spring Core - Spring MVC
+#Code Assignment / Spring Core - Spring MVC
 
-Source code in this repo is to support my on line course for the Spring Framework. 
+Source code in this repo was implemented for accomplishing given steps in "Spring Core" course on Udemy.  
 
-You can learn more about my course [here](http://courses.springframework.guru/courses/spring-core/).
+You can learn more about the course [here](http://courses.springframework.guru/courses/spring-core/).
